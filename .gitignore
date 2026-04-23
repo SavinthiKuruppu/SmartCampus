@@ -1,0 +1,23 @@
+# Maven build output
+target/
+*.class
+*.war
+*.ear
+
+# NetBeans local/private files
+nbproject/private/
+nbactions.xml
+nb-configuration-private.xml
+
+# IDE/editor local files
+.idea/
+.vscode/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
